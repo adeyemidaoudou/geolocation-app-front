@@ -1,0 +1,1 @@
+<?php include_once("display_geolocation_page.html"); ?>
